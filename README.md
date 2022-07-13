@@ -7,6 +7,16 @@
 
 - 🔭 I’m currently working on **Backend Development**
 
+- 🌱 I’m currently learning **Node.Js, MongoDb,**
+
+- 👨‍💻 All of my projects are available at [abuzar-dev.github.io](abuzar-dev.github.io)
+
+- 📝 I regularly write articles on [https://medium.com/@abuzarashfaq](https://medium.com/@abuzarashfaq)
+
+- 📫 How to reach me **abuzart1999@gmail.com**
+
+- ⚡ Fun fact **A Programmer is a machine that turns coffee into code**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
