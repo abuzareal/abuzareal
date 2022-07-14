@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer from India.<br><br>🔭 I’m currently working on Backend Development<br><br>🌱 I’m currently learning Node.Js, MongoDb,<br><br>👨‍💻 All of my projects are available at abuzar-dev.github.io<br><br>📝 I regularly write articles on https://medium.com/@abuzarashfaq<br><br>📫 How to reach me abuzart1999@gmail.com<br><br>⚡ Fun fact A Programmer is a machine that turns coffee into code
+Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer from India.<br><br>🔭 I’m currently working on Backend Development<br><br>🌱 I’m currently learning Data Structures, Node.Js, MongoDb<br><br>👨‍💻 All of my projects are available at abuzar-dev.github.io<br><br>📝 I regularly write articles on https://medium.com/@abuzarashfaq<br><br>📫 How to reach me abuzart1999@gmail.com<br><br>⚡ Fun fact: A Programmer is a machine that turns coffee into code
 
 
 ## 🌐 Socials:
