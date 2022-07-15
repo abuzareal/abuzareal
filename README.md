@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer from India.<br><br>🔭 I’m currently working on Backend Development<br><br>🌱 I’m currently learning Data Structures, Node.Js, MongoDb<br><br>👨‍💻 All of my projects are available at abuzar-dev.github.io<br><br>📝 I regularly write articles on https://medium.com/@abuzarashfaq<br><br>📫 How to reach me abuzart1999@gmail.com<br><br>⚡ Fun fact: A Programmer is a machine that turns coffee into code
 
+[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=abuzart1999)](https://auth.geeksforgeeks.org/user/abuzart1999/practice/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abuzar.221b) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abuzart) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abuzarashfaq) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/WizardOnTheRun_) 
