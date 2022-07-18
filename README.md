@@ -6,9 +6,6 @@
 Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer and Java Enthusiast from India. I hold a Bachelor of Engineering Degree in Information Technology and currenly working as a Software Analyst at Capgemini. <br><br>🔭 I’m currently working on Backend Development<br><br>🌱 I’m currently learning Data Structures, Node.Js, MongoDb and constantly improving my Problem Solving Skills<br><br>👨‍💻 All of my projects are available at abuzareal.github.io<br><br>📫 How to reach me abuzart1999@gmail.com<br><br>⚡ Fun fact: A Programmer is a machine that turns coffee into code.
 </p>
 
-[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=abuzareal)](https://auth.geeksforgeeks.org/user/abuzareal/practice/)
-
-
 ## 🌐 Socials:
 
 <p align='center'>
