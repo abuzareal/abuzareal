@@ -136,17 +136,13 @@ Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer and Java Enthusias
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abuzareal&theme=nightowl&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abuzareal&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abuzareal&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abuzareal&icon=0&color=0)](https://visitcount.itsvg.in)
+![VisitorCount](https://profile-counter.glitch.me/abuzareal/count.svg)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abuzareal) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AbuzarTamboli) 
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
