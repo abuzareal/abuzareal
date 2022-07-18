@@ -51,7 +51,7 @@ Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer and Java Enthusias
    Please, be free to follow my work there. Hope to help you!
   </p>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
  <div align='center'>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;
@@ -137,7 +137,7 @@ Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer and Java Enthusias
    </div>
    
    
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <p align='center'> <img src="https://github-readme-stats.vercel.app/api?username=abuzareal&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuzareal&theme=nightowl&hide_border=true" />
@@ -147,11 +147,11 @@ Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer and Java Enthusias
 </p>
 
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <p align='center'>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
----
+
 
   ## 💰 Bye Me a Coffee if you like what I do
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abuzareal) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AbuzarTamboli) 
