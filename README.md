@@ -138,13 +138,19 @@ Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer and Java Enthusias
    
    
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abuzareal&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=abuzareal&theme=nightowl&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abuzareal&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<p align='center'> <img src="https://github-readme-stats.vercel.app/api?username=abuzareal&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuzareal&theme=nightowl&hide_border=true" />
+</p>
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuzareal&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<p align='center'>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 ---
 
   ## 💰 Bye Me a Coffee if you like what I do
