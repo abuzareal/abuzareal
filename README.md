@@ -1,13 +1,34 @@
 # 💫 About Me:
-Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer and Java Enthusiast from India. I hold a Bachelor of Engineering Degree in Information Technology and currenly working as a Software Analyst at Capgemini. <br><br>🔭 I’m currently working on Backend Development<br><br>🌱 I’m currently learning Data Structures, Node.Js, MongoDb and constantly improving my Problem Solving Skills<br><br>👨‍💻 All of my projects are available at abuzareal.github.io<br><br>📝 I regularly write articles on https://medium.com/@abuzareal<br><br>📫 How to reach me abuzart1999@gmail.com<br><br>⚡ Fun fact: A Programmer is a machine that turns coffee into code
+<p align='center'
+Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer and Java Enthusiast from India. I hold a Bachelor of Engineering Degree in Information Technology and currenly working as a Software Analyst at Capgemini. <br><br>🔭 I’m currently working on Backend Development<br><br>🌱 I’m currently learning Data Structures, Node.Js, MongoDb and constantly improving my Problem Solving Skills<br><br>👨‍💻 All of my projects are available at abuzareal.github.io<br><br>📫 How to reach me abuzart1999@gmail.com<br><br>⚡ Fun fact: A Programmer is a machine that turns coffee into code.
+</p>
 
 [![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=abuzareal)](https://auth.geeksforgeeks.org/user/abuzareal/practice/)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abuzar.221b) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abuzart) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abuzareal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abuzareal) 
 
 ## ✍ Blog & Writing:
-I also share my thoughts on Medium and DEV.to platforms. Please, be free to follow my work there. Hope to help you!
+<p align='center'>
+   I also share my thoughts on
+  </p>
+<p align='center'>
+  <a href="https://medium.com/@abuzareal">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://abuzareal.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />        
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dev.to/abuzareal">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />        
+  </a>
+  
+
+  </p>
+  <p align='center'>
+   Please, be free to follow my work there. Hope to help you!
+  </p>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Pug](https://img.shields.io/badge/Pug-FFF?style=flat&logo=pug&logoColor=A86454) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
