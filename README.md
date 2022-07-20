@@ -146,6 +146,11 @@ Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer and Java Enthusias
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuzareal&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
+## Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 
 ## ✍️ Random Dev Quote
 <p align='center'>
