@@ -7,7 +7,7 @@ Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer and Java Enthusias
 </p>
 
 <div id="header" align="center">
-  <img src="https://github.com/abuzareal/abuzareal/blob/main/DSC_0557%20(1).jpg" width="600"/>
+  <img src="https://github.com/abuzareal/abuzareal/blob/main/DSC_0557%20(1).jpg" width="500"/>
 </div>
 
 ## 🌐 Socials:
