@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <p align='center'>
-Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer and Java Enthusiast from India. I hold a Bachelor of Engineering Degree in Information Technology and currenly working as a Software Analyst at Capgemini. <br><br>🔭 I’m currently working on Backend Development<br><br>🌱 I’m currently learning Data Structures, Node.Js, MongoDb and constantly improving my Problem Solving Skills<br><br>👨‍💻 All of my projects are available at abuzareal.github.io<br><br>📫 How to reach me abuzart1999@gmail.com<br><br>⚡ Fun fact: A Programmer is a machine that turns coffee into code.
+Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer and Java Enthusiast from India. I hold a Bachelor of Engineering Degree in Information Technology and currenly working as a Software Analyst at Capgemini. <br><br>🔭 I’m currently working on Backend Development<br><br>🌱 I’m currently learning Data Structures, Node.Js, MongoDb and constantly improving my Problem Solving Skills<br><br>👨‍💻 All of my projects are available at my <a href="abuzareal.github.io"> Portfolio</a><br><br>📫 How to reach me - <a href="abuzart1999@gmail.com"> abuzart1999@gmail.com</a><br><br>⚡ Fun fact: A Programmer is a machine that turns coffee into code.
 </p>
 
 <div id="header" align="center">
@@ -23,7 +23,7 @@ Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer and Java Enthusias
   <a href="https://twitter.com/abuzareal">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="">
+  <a href="https://discordapp.com/users/abuzareal/">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />        
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://join.skype.com/invite/uvAEI9sd5Clj">
@@ -54,6 +54,15 @@ Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer and Java Enthusias
   <p align='center'>
    Please, be free to follow my work there. Hope to help you!
   </p>
+
+## :sparkler:Codeverse:
+
+<div align='center'>
+  <a href="https://auth.geeksforgeeks.org/user/abuzareal/practice/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/Abuzar"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>&nbsp;&nbsp;
+  <a href="https://www.hackerearth.com/@abuzar-dev"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/abuzart-dev/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>&nbsp;&nbsp;
+</div>
 
 ## 💻 Tech Stack:
 
@@ -91,12 +100,6 @@ Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer and Java Enthusias
    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />&nbsp;&nbsp;
   </div>
   
-  <div align='center'>
-  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>&nbsp;&nbsp;
-  </div>
   
   <div align='center'>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>&nbsp;&nbsp;
@@ -154,8 +157,8 @@ Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer and Java Enthusias
 
 <!-- TODO-IST:START -->
 🏆  5,820 Karma Points           
-🌸  Completed 4 tasks today           
-✅  Completed 351 tasks so far           
+🌸  Completed 2 tasks today           
+✅  Completed 349 tasks so far           
 ⏳  Longest streak is 5 days
 <!-- TODO-IST:END -->
 
