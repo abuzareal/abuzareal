@@ -60,7 +60,7 @@ Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer and Java Enthusias
 <div align='center'>
   <a href="https://auth.geeksforgeeks.org/user/abuzareal/practice/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/Abuzar"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>&nbsp;&nbsp;
-  <a href="https://www.hackerearth.com/@abuzar-dev"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a>&nbsp;&nbsp;
+  <a href="https://www.hackerearth.com/@abuzareal"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a>&nbsp;&nbsp;
   <a href="https://leetcode.com/abuzart-dev/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>&nbsp;&nbsp;
 </div>
 
