@@ -156,10 +156,10 @@ Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer and Java Enthusias
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  12,174 Karma Points           
-🌸  Completed 4 tasks today           
-✅  Completed 1,848 tasks so far           
-⏳  Longest streak is 58 days
+🏆  12,182 Karma Points           
+🌸  Completed 5 tasks today           
+✅  Completed 1,849 tasks so far           
+⏳  Longest streak is 59 days
 <!-- TODO-IST:END -->
 
 
