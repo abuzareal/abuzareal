@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <p align='center'>
-Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Engineer and Java Enthusiast from India. I hold a Bachelor of Engineering Degree in Information Technology and currenly working as a Software Analyst at Capgemini. <br><br>🔭 I’m currently working on Backend Development<br><br>🌱 I’m currently learning Data Structures, Node.Js, MongoDb and constantly improving my Problem Solving Skills<br><br>👨‍💻 All of my projects are available at my <a href="abuzareal.github.io"> Portfolio</a><br><br>📫 How to reach me - <a href="abuzart1999@gmail.com"> abuzart1999@gmail.com</a><br><br>⚡ Fun fact: A Programmer is a machine that turns coffee into code.
+Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Developer from India. I hold a Bachelor's of Engineering Degree in Information Technology and currenly working as a Software Engineer at Capgemini. <br><br>🔭 I’m currently working on Frontend Development<br><br>🌱 I’m currently learning Data Structures, React.js, Tailwind CSS and constantly improving my Problem Solving Skills<br><br>👨‍💻 All of my projects are available at my <a href="portfolio-abuzar.vercel.app"> Portfolio</a><br><br>📫 How to reach me - <a href="abuzart1999@gmail.com"> abuzart1999@gmail.com</a><br><br>⚡ Fun fact: A Programmer is a machine that turns coffee into code.
 </p>
 
 <div id="header" align="center">
