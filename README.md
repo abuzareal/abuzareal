@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <p align='center'>
-Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Developer from India. I hold a Bachelor's of Engineering Degree in Information Technology and currenly working as a Software Engineer at Capgemini. <br><br>🔭 I’m currently working on Frontend Development<br><br>🌱 I’m currently learning Data Structures, React.js, Tailwind CSS and constantly improving my Problem Solving Skills<br><br>👨‍💻 All of my projects are available at my <a href="portfolio-abuzar.vercel.app"> Portfolio</a><br><br>📫 How to reach me - <a href="abuzart1999@gmail.com"> abuzart1999@gmail.com</a><br><br>⚡ Fun fact: A Programmer is a machine that turns coffee into code.
+Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Developer from India. I hold a Bachelor's of Engineering Degree in Information Technology and currenly working as a Software Engineer at Capgemini. <br><br>🔭 I’m currently working on Frontend Development<br><br>🌱 I’m currently learning Data Structures, React.js, Tailwind CSS and constantly improving my Problem Solving Skills<br><br>👨‍💻 All of my projects are available at my <a href="portfolio-abuzar.vercel.app"> Portfolio</a><br><br>📫 How to reach me - <a href="abuzart1999@gmail.com"> abuzart1999@gmail.com</a><br>
 </p>
 
 <div id="header" align="center">
@@ -17,7 +17,7 @@ Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Developer from India. I hol
   <a href="https://www.linkedin.com/in/abuzart/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/abuzar.221b">
+  <a href="https://instagram.com/abuzareal">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/abuzareal">
@@ -39,7 +39,7 @@ Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Developer from India. I hol
    I also share my thoughts on
   </p>
 <p align='center'>
-  <a href="https://medium.com/@abuzareal">
+  <a href="https://abuzareal.medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://abuzareal.hashnode.dev/">
@@ -52,16 +52,16 @@ Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Developer from India. I hol
 
   </p>
   <p align='center'>
-   Please, be free to follow my work there. Hope to help you!
+   Feel free to follow my work there. Hope to help you!
   </p>
 
 ## :sparkler:Codeverse:
 
 <div align='center'>
   <a href="https://auth.geeksforgeeks.org/user/abuzareal/practice/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/abuzart-dev/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/Abuzar"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>&nbsp;&nbsp;
   <a href="https://www.hackerearth.com/@abuzareal"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/abuzart-dev/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>&nbsp;&nbsp;
 </div>
 
 ## 💻 Tech Stack:
@@ -169,7 +169,7 @@ Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Developer from India. I hol
 </p>
 
 
-  ## 💰 Bye Me a Coffee if you like what I do
+  ## 💰 If you like what I do
   <p align='center'>
     <a href="https://buymeacoffee.com/abuzareal">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />        
