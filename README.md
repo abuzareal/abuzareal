@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <p align='center'>
-Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Developer from India. I hold a Bachelor's of Engineering Degree in Information Technology and currenly working as a Software Engineer at Capgemini. <br><br>🔭 I’m currently working on Frontend Development<br><br>🌱 I’m currently learning Data Structures, React.js, Tailwind CSS and constantly improving my Problem Solving Skills<br><br>👨‍💻 All of my projects are available at my <a href="portfolio-abuzar.vercel.app"> Portfolio</a><br><br>📫 How to reach me - <a href="abuzart1999@gmail.com"> abuzart1999@gmail.com</a><br>
+Hi 👋, I'm Abuzar Tamboli<br>A Software Developer from India. Let me give you a glimpse <br><br>🔭 Currently, I'm immersed in the exciting realm of Frontend Development, crafting delightful user experiences and pushing the boundaries of what's possible.<br><br>🌱 Currently, I'm diving deep into mastering React.js, exploring the wonders of Vanilla Extract and Tailwind CSS, and sharpening my problem-solving abilities.<br><br>👨‍💻 You can find an array of my projects showcased in my <a href="portfolio-abuzar.vercel.app"> Portfolio</a><br><br>📫 How to reach me - <a href="abuzart1999@gmail.com"> abuzart1999@gmail.com</a><br>
 </p>
 
 <div id="header" align="center">
@@ -137,17 +137,5 @@ Hi 👋, I'm Abuzar Tamboli<br>A Passionate Software Developer from India. I hol
 <p align='center'>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
-
-
-  ## 💰 If you like what I do
-  <p align='center'>
-    <a href="https://buymeacoffee.com/abuzareal">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />        
-    </a>
-  <a href="https://paypal.me/AbuzarTamboli">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />        
-    </a>
-  </p>
-  
 
   
