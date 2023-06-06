@@ -125,7 +125,7 @@ Hi 👋, I'm Abuzar Tamboli<br>A Software Developer from India. Let me give you 
    
 ## 📊 GitHub Stats:
 
-<p align='center'> <img src="https://github-readme-stats.vercel.app/api?username=abuzareal&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" />
+<p align='center'>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuzareal&theme=nightowl&hide_border=true" />
 </p>
 
