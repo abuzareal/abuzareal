@@ -128,9 +128,6 @@ Hi 👋, I'm Abuzar Tamboli<br>A Software Developer from India. Let me give you 
 <p align='center'> <img src="https://github-readme-stats.vercel.app/api?username=abuzareal&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuzareal&theme=nightowl&hide_border=true" />
 </p>
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuzareal&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
 
 
 ## ✍️ Random Dev Quote
