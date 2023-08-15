@@ -4,7 +4,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://github.com/abuzareal/abuzareal/blob/main/ray-so-export (1)" width="500"/>
+  <img src="https://github.com/abuzareal/abuzareal/blob/main/ray-so-export%20(1).png" width="500"/>
 </div>
 
 <p align='center'>
