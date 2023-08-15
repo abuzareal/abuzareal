@@ -11,10 +11,6 @@
 👨‍💻 You can find an array of my projects showcased in my <a href="portfolio-abuzar.vercel.app"> Portfolio</a><br>
 </p>
 
-<div id="header" align="center">
-  <img src="https://github.com/abuzareal/abuzareal/blob/main/DSC_0557%20(1).jpg width="500"/>
-</div>
-
 ## 🌐 Socials:
 
 <p align='center'>
@@ -31,8 +27,8 @@
   <a href="https://discordapp.com/users/abuzareal/">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />        
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://linktr.ee/abuzart">
-    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />        
+  <a href="https://portfolio-abuzar.vercel.app">
+    <img src="https://img.shields.io/badge/portfolio-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />        
   </a>
 </p>
 
