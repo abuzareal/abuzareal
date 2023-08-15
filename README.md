@@ -2,8 +2,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+<div id="header" align="center">
+  <img src="https://github.com/abuzareal/abuzareal/blob/main/ray-so-export (1)" width="500"/>
+</div>
+
 <p align='center'>
-Hi 👋, I'm Abuzar Tamboli<br>A Software Developer from India. <br><br>🔭 Currently, I'm immersed in the exciting realm of Frontend Development, crafting delightful user experiences and pushing the boundaries of what's possible.<br><br>🌱 Currently, I'm diving deep into mastering React.js, exploring the wonders of UI/UX, and sharpening my problem-solving abilities.<br><br>👨‍💻 You can find an array of my projects showcased in my <a href="portfolio-abuzar.vercel.app"> Portfolio</a><br><br>📫 How to reach me - <a href="abuzart1999@gmail.com"> abuzart1999@gmail.com</a><br>
+👨‍💻 You can find an array of my projects showcased in my <a href="portfolio-abuzar.vercel.app"> Portfolio</a><br>
 </p>
 
 <div id="header" align="center">
