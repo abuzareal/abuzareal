@@ -13,7 +13,7 @@
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://portfolio-abuzar.vercel.app">
     <img src="https://img.shields.io/badge/portfolio-512B81?style=for-the-badge&logo=linktree&logoColor=white" />        
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/abuzareal">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;&nbsp;
