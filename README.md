@@ -12,7 +12,7 @@
 </p>
 
 <div id="header" align="center">
-  <img src="https://github.com/abuzareal/abuzareal/blob/main/DSC_0557%20(1).jpg" width="500"/>
+  <img src="https://github.com/abuzareal/abuzareal/blob/main/DSC_0557%20(1).jpg"/>
 </div>
 
 ## 🌐 Socials:
