@@ -4,7 +4,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://github.com/abuzareal/abuzareal/blob/main/ray-so-export.png" width="500"/>
+  <img src="https://github.com/abuzareal/abuzareal/blob/main/ray-so-export.png"/>
 </div>
 
 <p align='center'>
@@ -12,7 +12,7 @@
 </p>
 
 <div id="header" align="center">
-  <img src="https://github.com/abuzareal/abuzareal/blob/main/DSC_0557%20(1).jpg"/>
+  <img src="https://github.com/abuzareal/abuzareal/blob/main/DSC_0557%20(1).jpg width="500"/>
 </div>
 
 ## 🌐 Socials:
