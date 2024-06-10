@@ -7,12 +7,11 @@
 ## 🌐 Socials:
 
 <p align='center'>
-  
+  <a href="https://abuzareal.vercel.app">
+    <img src="https://img.shields.io/badge/portfolio-512B81?style=for-the-badge&logo=linktree&logoColor=white" />        
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/abuzart/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://portfolio-abuzar.vercel.app">
-    <img src="https://img.shields.io/badge/portfolio-512B81?style=for-the-badge&logo=linktree&logoColor=white" />        
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/abuzareal">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
@@ -20,12 +19,12 @@
   <a href="https://twitter.com/abuzareal">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/abuzareal/">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />        
-  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://abuzareal.medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+  <a href="https://discordapp.com/users/abuzareal/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />        
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :sparkler:Codeverse:
@@ -39,7 +38,7 @@
 ## 💻 Tech Stack:
 
  <div align='center'>
-   <img src="https://img.shields.io/badge/C%23-20f5d8?style=for-the-badge&logo=csharp&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/C%23-0692bd?style=for-the-badge&logo=csharp&logoColor=white"/>&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;&nbsp;&nbsp;
@@ -60,6 +59,7 @@
  </div>
   
  <div align='center'>
+   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -67,7 +67,7 @@
   
  <div align='center'>
    <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -95,6 +95,7 @@
       
  <div align='center'>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>&nbsp;&nbsp;&nbsp;
  </div>
@@ -103,8 +104,12 @@
 ## 📊 GitHub Stats:
 
 <p align='center'>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuzareal&theme=nightowl&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuzareal&theme=nightowl&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abuzareal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="abuzareal's Stats" />
 </p>
+
+
+
 
 
 ## ✍️ Random Dev Quote
