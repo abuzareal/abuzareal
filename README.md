@@ -30,33 +30,35 @@
 ## :sparkler:Codeverse:
 
 <div align='center'>
-  <a href="https://auth.geeksforgeeks.org/user/abuzareal/practice/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/abuzareal/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/Abuzar"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/abuzareal/practice/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/abuzareal/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/Abuzar"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </div>
 
 ## 💻 Tech Stack:
+
 <div align='center'>
   <h4>Languages</h4>
   <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=A8B9CC"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 <div align='center'>
   <h4>Frontend</h4>
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;&nbsp;   
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
 
 <div align='center'>
-  <h4>Frameworks and Libraries</h4>
+  <h4>CSS Frameworks and Libraries</h4>
   <img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MUI-000?style=for-the-badge&logo=mui&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass" />
 </div>
 
 <div align='center'>
@@ -64,7 +66,7 @@
   <img src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/redux-000?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Next-000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js" />
 </div>
 
 <div align='center'>
@@ -73,33 +75,39 @@
   <img src="https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=Postman&logoColor=white" />
 </div>
 
 <div align='center'>
   <h4>Version Control</h4>
   <img src="https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 <div align='center'>
   <h4>Hosting</h4>
-  <img src="https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/netlify-000?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/firebase-000?style=for-the-badge&logo=firebase" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/netlify-000?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
 </div>
 
 <div align='center'>
   <h4>Operating Systems</h4>
   <img src="https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/iOS-000?style=for-the-badge&logo=android&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/iOS-000?style=for-the-badge&logo=ios&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=ubuntu&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Kali_Linux-000?style=for-the-badge&logo=kali-linux&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/mac%20os-000?style=for-the-badge&logo=apple&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mac%20os-000?style=for-the-badge&logo=apple&logoColor=white"/>
 </div>
 
-   
+<div align='center'>
+  <h4>Package Managers</h4>
+  <img src="https://img.shields.io/badge/NPM-000?style=for-the-badge&logo=npm&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Yarn-000?style=for-the-badge&logo=yarn&logoColor=white"/>
+</div>
+  
    
 ## 📊 GitHub Stats:
 
