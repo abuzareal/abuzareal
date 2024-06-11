@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div id="header" align="center">
-  <img src="https://github.com/abuzareal/abuzareal/blob/main/About-me.png" alt="About Me" width="700" height="500"/>
+  <img src="https://github.com/abuzareal/abuzareal/blob/main/About-me.png" alt="About Me" width="550" height="350"/>
 </div>
 
 
