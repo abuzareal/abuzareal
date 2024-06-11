@@ -91,7 +91,8 @@
 
 <div align='center'>
   <h4>Operating Systems</h4>
-  <img src="https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/iOS-000?style=for-the-badge&logo=android&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=ubuntu&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Kali_Linux-000?style=for-the-badge&logo=kali-linux&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;
