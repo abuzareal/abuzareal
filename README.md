@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div id="header" align="center">
-  <img src="https://github.com/abuzareal/abuzareal/blob/main/ray-so-export.png"/>
+  <img src="https://github.com/abuzareal/abuzareal/blob/main/About-me.png"/>
 </div>
 
 
