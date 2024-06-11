@@ -36,7 +36,7 @@
 </div>
 
 ## 💻 Tech Stack:
-
+#### Languages
 <div align='center'>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
