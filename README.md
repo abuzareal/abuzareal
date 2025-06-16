@@ -7,7 +7,7 @@
 ## 🌐 Socials:
 
 <p align='center'>
-  <a href="https://abuzareal.vercel.app">
+  <a href="https://abuzar-ashfaq.vercel.app">
     <img src="https://img.shields.io/badge/portfolio-512B81?style=for-the-badge&logo=linktree&logoColor=white" />        
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/abuzart/">
@@ -39,6 +39,8 @@
 
 <div align='center'>
   <h4>Languages</h4>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=A8B9CC"/>&nbsp;&nbsp;&nbsp;
@@ -50,32 +52,53 @@
   <h4>Frontend</h4>
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;&nbsp;   
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
 </div>
 
 <div align='center'>
   <h4>CSS Frameworks and Libraries</h4>
+  <img src="https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MUI-000?style=for-the-badge&logo=mui&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass" />
+  <img src="https://img.shields.io/badge/ShadCN-000?style=for-the-badge&logo=shadcnui&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Ant%20Design-000?style=for-the-badge&logo=antdesign&logoColor=0170FE" />
 </div>
 
 <div align='center'>
-  <h4>JavaScript Frameworks</h4>
-  <img src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <h4>JavaScript Frameworks & Libraries</h4>
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/redux-000?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Zustand-000?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
 <div align='center'>
   <h4>Backend and Database</h4>
-  <img src="https://img.shields.io/badge/microsoft%20azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Cosmos%20DB-000?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql&logoColor=E10098" />
+</div>
+
+<div align='center'>
+  <h4>Cloud & DevOps</h4>
+  <img src="https://img.shields.io/badge/microsoft%20azure-000?style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Azure%20DevOps-000?style=for-the-badge&logo=azuredevops&logoColor=0078D7" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet&logoColor=white" />
+</div>
+
+<div align='center'>
+  <h4>Development Tools</h4>
+  <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite&logoColor=646cff" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=webpack&logoColor=8DD6F9" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jest-000?style=for-the-badge&logo=jest&logoColor=C21325" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Playwright-000?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
 </div>
 
 <div align='center'>
