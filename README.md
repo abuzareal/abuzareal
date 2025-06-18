@@ -133,7 +133,7 @@
 ## 📊 GitHub Stats:
 
 <p align='center'>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuzareal&theme=tokyonight&hide_border=true" alt="abuzareal's Streak" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abuzareal)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api?username=abuzareal&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="abuzareal's Stats" />
 </p>
 
